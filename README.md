@@ -21,3 +21,6 @@ This project automates the process of editing `.docx` documents using natural la
 
 ```bash
 pip install sentence-transformers transformers python-docx nltk requests
+
+---
+## Instructions document
