@@ -24,7 +24,18 @@ pip install sentence-transformers transformers python-docx nltk requests
 
 ---
 
-![Alt text]("C:\Users\navya\OneDrive\Desktop\Freyr\doc_automation2\content_imagee.jpg")
+## Sample Images
+
+### Original Content
+![Content Image](content_imagee.jpg)
+
+### Instruction Image
+![Instruction](instruction_image.jpg)
+
+### Modified Image
+![Modified Output](modified_image.jpg)
+
+
 
 
 
