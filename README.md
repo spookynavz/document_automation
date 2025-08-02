@@ -24,16 +24,7 @@ pip install sentence-transformers transformers python-docx nltk requests
 
 ---
 
-## Sample Images
 
-### Original Content
-![Content Image](content_imagee.jpg)
-
-### Instruction Image
-![Instruction](instruction_image.jpg)
-
-### Modified Image
-![Modified Output](modified_image.jpg)
 
 
 
