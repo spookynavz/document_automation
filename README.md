@@ -23,6 +23,9 @@ This project automates the process of editing `.docx` documents using natural la
 pip install sentence-transformers transformers python-docx nltk requests
 
 ---
-<img width="491" height="224" alt="image" src="https://github.com/user-attachments/assets/45511bb6-0590-4122-b181-0b777d95ad01" />
+
+![Alt text]("C:\Users\navya\OneDrive\Desktop\Freyr\doc_automation2\content_imagee.jpg")
+
+
 
 
